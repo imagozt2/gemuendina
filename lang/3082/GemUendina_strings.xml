@@ -1,0 +1,117 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <GemUendina>Gemuendina</GemUendina>
+      <GemUendina_stt>Gemuendina</GemUendina_stt>
+      <GemUendina_lower>El Gemuendina</GemUendina_lower>
+      <GemUendina_ltt>
+         <color r="255" g="248" b="178">
+            <b>Gemuendina</b>
+         </color>
+         <br/>
+         Click para seleccionar y colocar un Gemuendina.
+      </GemUendina_ltt>
+</entityname>
+<zoopedia_gemuendina>
+ <entry>Gemuendina</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/GemUendina/GemUendina_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion
+                     <br/>
+                        <color r="170" g="255" b="0">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costero<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mares<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Placodermos <i>(Placodermi)</i><br/>orden: <i>(Rhenaniformes)</i><br/>Familia: <i>(Asterosteidae)</i><br/>Genero: <i>Gemuendina</i><br/>Especie: <i>G. stuertzi</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Cuirosidades del Gemuendina</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Gemuendina era un placodermo plano. </color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Era un placodermo del devonico. </color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Podia llegar a medir un metro.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear un Gemuendina en modos campaña y desafio, debes conseguir 2 estrellas de fama en tus zoos. 
+   </color>
+   <p/>Gemuendina stuertzi era una especie placoderma en sus primeros tiempos, de los mares de Alemania a principios del Devonico. Gemuendina se parecia a una raya escamosa con un par de ojos abiertos, una nariz respingona y una boca hacia arriba. Esto nos lleva practicamente todos los artistas que reconstruyen a una criatura burlona, con una expresion casi sorprendida. Es un buen ejemplo de la evolucion convergente, con su cuerpo plano y enormes alas como aletas pectorales, es muy similar a las rayas. A diferencia de las rayas, los ojos de Gemuendina y la nariz se colocan encima de la cabeza.
+<p/>A diferencia de la mayoria de los placodermos otros, tales como la Antiarchs, o los Arthrodires, Gemuendina y sus otros cinco familiares conocidos tenian una armadura compuesta por un mosaico de placas oseas no fusionadas. Debido a que su armadura era tan fragil, ejemplos de rhenanids han sobrevivido en el registro fosil. Debido a que varias regiones del lagerstätte Hunsruck eran anoxicos, por lo tanto libre de organismos carroñeros, intactas, casi virgenes (aunque aplanada) especimenes de G. stuertzi se han encontrado como resultado. Tambien a diferencia de otros placodermos, que no tenia las placas de los dientes caracteristicos de los placodermos. Por el contrario, tenia forma de estrella, las escalas de tuberculo que le permitieron tomar, luego trague los peces y otros animales que nadaban muy cerca de su boca.. 
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Informacion de: <color r="255" g="231" b="135">Wikipedia</color>  Creada por <color r="0" g="0" b="0"></color>Imago
+  </cell>
+ </text>
+</zoopedia_gemuendina>
+</ZT2Strings>
